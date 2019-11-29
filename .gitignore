@@ -1,0 +1,21 @@
+# Gradle project-specific cache directory
+.gradle
+
+# Gradle build output directory
+build
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+
+# Log file
+*.log
+
+# Others
+.idea
+.syntastic_javac_config
+.project
+.classpath
+org.eclipse.buildship.core.prefs
